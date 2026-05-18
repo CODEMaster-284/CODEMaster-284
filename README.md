@@ -72,7 +72,7 @@ const CODEMaster = {
 
 | 🎯 Goal | 📊 Status |
 |--------|---------|
-| 🚀 Launch CBT SaaS (Eduvate) | `In Progress` |
+| 🚀 Launch CBT SaaS (Eduvate CBT) | `Launched On 24th April` |
 | 📝 Publish 50+ Technical Articles | `Active` |
 | 🌍 Contribute to Major OSS Projects | `Planned` |
 | 🎓 Mentor 100+ Aspiring Devs | `Ongoing` |

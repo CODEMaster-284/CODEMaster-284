@@ -17,9 +17,9 @@
 
 <!-- Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile+Views&color=667eea&style=flat-square" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=CODEMASTER-284&label=Profile+Views&color=667eea&style=flat-square" alt="Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/peace-dfg?label=Followers&style=flat-square&color=764ba2&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/CODEMASTER-284?label=Followers&style=flat-square&color=764ba2&logo=github" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-28a745?style=flat-square" alt="Open to Work"/>
   &nbsp;
@@ -256,7 +256,7 @@ Educational hub for engineering students — CGPA calculator, course outlines, e
 **Stack:** `React` `Bootstrap` `JavaScript`
 
 [![Live](https://img.shields.io/badge/🌐_Live-667eea?style=flat-square)](https://elect-elect.netlify.app/)
-[![Code](https://img.shields.io/badge/📂_Code-100000?style=flat-square&logo=github)](https://github.com/PEACE-DFG/Electrical)
+[![Code](https://img.shields.io/badge/📂_Code-100000?style=flat-square&logo=github)](https://github.com/CODEMASTER-284/Electrical)
 
 </td>
 </tr>
@@ -272,7 +272,7 @@ Cart, authentication, product search, and dummy JSON API integration — a compl
 **Stack:** `React` `Bootstrap` `JavaScript`
 
 [![Live](https://img.shields.io/badge/🌐_Live-764ba2?style=flat-square)](https://multicodemaster.netlify.app/)
-[![Code](https://img.shields.io/badge/📂_Code-100000?style=flat-square&logo=github)](https://github.com/PEACE-DFG/multi)
+[![Code](https://img.shields.io/badge/📂_Code-100000?style=flat-square&logo=github)](https://github.com/CODEMASTER-284/multi)
 
 </td>
 <td width="50%" valign="top">
@@ -295,7 +295,7 @@ Sharing knowledge through in-depth articles on PHP security, EmailJS, developer-
 </table>
 
 <p align="center">
-  <a href="https://github.com/PEACE-DFG?tab=repositories">
+  <a href="https://github.com/CODEMASTER-284?tab=repositories">
     <img src="https://img.shields.io/badge/🗂️_See_All_Repositories-667eea?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </p>
@@ -311,17 +311,17 @@ Sharing knowledge through in-depth articles on PHP security, EmailJS, developer-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peace-dfg&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CODEMASTER-284&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
   &nbsp;
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CODEMASTER-284&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=peace-dfg&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=CODEMASTER-284&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CODEMASTER-284&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br>
@@ -337,7 +337,7 @@ Sharing knowledge through in-depth articles on PHP security, EmailJS, developer-
 > *"A year of showing up. A year of building. A year of becoming."*
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peace-dfg&custom_title=CODEMaster's%20Contribution%20Journey%20—%20Every%20Green%20Square%20is%20a%20Promise%20Kept&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=667eea&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTER-284&custom_title=CODEMaster's%20Contribution%20Journey%20—%20Every%20Green%20Square%20is%20a%20Promise%20Kept&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=667eea&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 <br>
@@ -446,7 +446,7 @@ Short-form dev tips, code walkthroughs, and behind-the-scenes of building real p
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PEACE-DFG)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CODEMASTER-284)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awofesobipeaceportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peace-kolade-58a27a314)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@awofesobipeace)

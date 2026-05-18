@@ -53,7 +53,7 @@ const CODEMaster = {
     backend:   ["PHP", "Laravel (learning)", "Python"],
     database:  ["MySQL"],
     tools:     ["Git", "GitHub", "VS Code", "XAMPP"],
-    deploy:    ["Netlify", "Vercel", "GO54"],
+    deploy:    ["Netlify", "Vercel", "GO54", "Hostinger", "CloudFare"],
   },
 
   currentlyBuilding: "CBT SaaS Platform — Eduvate 🎓",

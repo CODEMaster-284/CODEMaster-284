@@ -17,9 +17,9 @@
 
 <!-- Dynamic Profile Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=PEACE-DFG&label=Profile+Views&color=0891b2&style=for-the-badge&abbreviated=true" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=CODEMASTER-284&label=Profile+Views&color=0891b2&style=for-the-badge&abbreviated=true" alt="Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/PEACE-DFG?label=Followers&style=for-the-badge&color=0f172a&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/CODEMASTER-284?label=Followers&style=for-the-badge&color=0f172a&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work"/>
   &nbsp;
@@ -30,7 +30,7 @@
 
 <!-- Social Links Row -->
 <p>
-  <a href="https://github.com/PEACE-DFG"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/CODEMASTER-284"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://awofesobipeaceportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/peace-kolade-58a27a314"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@awofesobipeace"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -264,7 +264,7 @@ Educational portal for engineering students with CGPA calculator, course outline
 **Stack:** &nbsp;`React` &nbsp;`Bootstrap` &nbsp;`JavaScript`
 
 [![🌐 Live](https://img.shields.io/badge/🌐_Live-0891b2?style=for-the-badge)](https://elect-elect.netlify.app/)
-[![📂 Code](https://img.shields.io/badge/📂_Source-0f172a?style=for-the-badge&logo=github)](https://github.com/PEACE-DFG/Electrical)
+[![📂 Code](https://img.shields.io/badge/📂_Source-0f172a?style=for-the-badge&logo=github)](https://github.com/CODEMASTER-284/Electrical)
 
 </td>
 </tr>
@@ -282,7 +282,7 @@ Cart management, user authentication, product search, and DummyJSON API integrat
 **Stack:** &nbsp;`React` &nbsp;`Bootstrap` &nbsp;`JavaScript`
 
 [![🌐 Live](https://img.shields.io/badge/🌐_Live-7c3aed?style=for-the-badge)](https://multicodemaster.netlify.app/)
-[![📂 Code](https://img.shields.io/badge/📂_Source-0f172a?style=for-the-badge&logo=github)](https://github.com/PEACE-DFG/multi)
+[![📂 Code](https://img.shields.io/badge/📂_Source-0f172a?style=for-the-badge&logo=github)](https://github.com/CODEMASTER-284/multi)
 
 </td>
 <td width="50%" valign="top">
@@ -307,7 +307,7 @@ Sharing what I know — PHP security, EmailJS, developer-client dynamics, and mo
 </table>
 
 <div align="center">
-  <a href="https://github.com/PEACE-DFG?tab=repositories">
+  <a href="https://github.com/CODEMASTER-284?tab=repositories">
     <img src="https://img.shields.io/badge/🗂️_View_All_Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </div>
@@ -324,18 +324,18 @@ Sharing what I know — PHP security, EmailJS, developer-client dynamics, and mo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PEACE-DFG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CODEMASTER-284&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PEACE-DFG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CODEMASTER-284&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=PEACE-DFG&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=CODEMASTER-284&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PEACE-DFG&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CODEMASTER-284&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -352,7 +352,7 @@ Sharing what I know — PHP security, EmailJS, developer-client dynamics, and mo
 
 > *"A year of showing up. A year of building. A year of becoming."*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PEACE-DFG&custom_title=CODEMaster%27s%20Contribution%20Journey%20—%20Every%20Green%20Square%20is%20a%20Promise%20Kept&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6b35&area_color=00d9ff&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEMASTER-284&custom_title=CODEMaster%27s%20Contribution%20Journey%20—%20Every%20Green%20Square%20is%20a%20Promise%20Kept&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ff6b35&area_color=00d9ff&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -515,7 +515,7 @@ Bite-sized dev tips, code walkthroughs, and real behind-the-scenes of building p
 <tr>
 <td>🐙</td>
 <td><strong>GitHub</strong></td>
-<td><a href="https://github.com/PEACE-DFG">PEACE-DFG</a></td>
+<td><a href="https://github.com/CODEMASTER-284">CODEMASTER-284</a></td>
 </tr>
 </table>
 

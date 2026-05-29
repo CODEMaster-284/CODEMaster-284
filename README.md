@@ -315,7 +315,7 @@ Sharing what I know — PHP security, EmailJS, developer-client dynamics, and mo
 <br><br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=CODEMASTER-284&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" width="100%"/>
+  <img src="https://trophy.ryglcloud.net/?username=CODEMASTER-284&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" width="100%"/>
 </a>
 
 </div>
@@ -387,11 +387,21 @@ Sharing what I know — PHP security, EmailJS, developer-client dynamics, and mo
 <!-- 🐍 Contribution Snake Animation -->
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
+  </picture>
 
 </div>
 

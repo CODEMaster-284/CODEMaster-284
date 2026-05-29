@@ -136,7 +136,7 @@ const CODEMaster = {
 <div align="center">
 
 > ### *Real products. Real users. Real impact.*
-> 8 live platforms shipped. Thousands of real users. Zero Lorem Ipsum.
+> 9 live platforms shipped. Thousands of real users. Zero Lorem Ipsum.
 
 </div>
 
@@ -161,6 +161,27 @@ A full-featured examination SaaS with **AI proctoring**, randomised question ban
 </td>
 <td width="50%" valign="top">
 
+### 🌳 &nbsp;Woods Heritage
+**`#AgriTech` `#Investment` `#Nigeria`** &nbsp; ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Animated](https://img.shields.io/badge/Premium_Animations-✨-14532d?style=flat-square)
+
+> *Agricultural Investment Platform — Nigeria*
+
+A luxury-grade agricultural investment web platform built for **Woods Heritage Nigeria** — connecting investors to high-yield farmland opportunities across the country. Features a cinematic **GSAP-powered loader** with a custom SVG tree logo that grows on screen, scroll-triggered section reveals, parallax hero, animated investment tier cards, and a rich dark green & gold design language that commands trust and premium positioning.
+
+The platform covers farmland investment packages, ROI projections, portfolio highlights, and a seamless investor inquiry flow — all wrapped in a bespoke aesthetic that sets it apart from every other agribusiness site in Nigeria.
+
+**Stack:** &nbsp;`HTML5` &nbsp;`CSS3` &nbsp;`JavaScript` &nbsp;`GSAP` &nbsp;`PHP`
+
+**Design:** &nbsp;`Dark Green / Gold` &nbsp;`SVG Tree Logo` &nbsp;`GSAP Loader` &nbsp;`Scroll Animations`
+
+[![🌐 Live Site](https://img.shields.io/badge/🌐_Live_Site-14532d?style=for-the-badge)](https://www.woodsheritage.com.ng/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### <img src="https://img.icons8.com/fluency/24/restaurant.png"/> &nbsp;G&P Kitchen
 **`#FoodTech` `#UK` `#FullStack`**
 
@@ -173,9 +194,6 @@ Full-stack food ordering and catering platform with mobile-first UI, seamless ev
 [![🌐 Live Site](https://img.shields.io/badge/🌐_Live_Site-0891b2?style=for-the-badge)](https://gnpkitchen.co.uk/)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://img.icons8.com/fluency/24/rings.png"/> &nbsp;True Match Online
@@ -190,6 +208,9 @@ Faith-centred matchmaking with privacy-first profiles, guardian participation fl
 [![🌐 Live Site](https://img.shields.io/badge/🌐_Live_Site-7c3aed?style=for-the-badge)](https://www.truematchonline.com)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://img.icons8.com/fluency/24/briefcase.png"/> &nbsp;Career Elevate

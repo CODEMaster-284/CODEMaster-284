@@ -124,9 +124,16 @@ const CODEMaster = {
 
 > *Next-Generation Computer Based Test Platform*
 
-A full-featured examination SaaS with **AI proctoring**, randomised question banks, bulk Excel upload, real-time grading, and exportable result sheets. Built for Nigerian schools and institutions — and growing beyond.
+EDUVATE CBT is an AI-powered Learning Management System (LMS) and Computer-Based Testing (CBT) platform designed to help schools, universities, training centers, and organizations digitize learning, assessment, and academic management.
 
-**Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap`
+The platform combines intelligent assessment tools, AI-assisted grading, secure online examinations, course management, student performance analytics, real-time reporting, and institutional administration into a single ecosystem. Educators can create courses, manage learners, conduct examinations, automate grading, monitor academic progress, and generate comprehensive reports with ease.
+
+Key features include AI-powered assessment and feedback, anti-malpractice monitoring, randomized question banks, bulk Excel question imports, automated grading, LMS course delivery, assignment management, attendance tracking, analytics dashboards, result processing, and mobile learning support.
+
+Built to serve the evolving needs of modern education across Africa and beyond, EDUVATE CBT is transforming how institutions teach, assess, and measure learning outcomes.
+
+**Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `AJAX` `Google APIs` `FCM` `Expo React Native`
+
 
 [![🌐 Live Platform](https://img.shields.io/badge/Live_Platform-0891b2?style=for-the-badge)](https://eduvate.com.ng)
 [![📺 YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EduvateCBT)

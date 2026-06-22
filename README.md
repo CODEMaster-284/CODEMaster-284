@@ -132,7 +132,7 @@ Key features include AI-powered assessment and feedback, anti-malpractice monito
 
 Built to serve the evolving needs of modern education across Africa and beyond, EDUVATE CBT is transforming how institutions teach, assess, and measure learning outcomes.
 
-**Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `AJAX` `Google APIs` `FCM` `Expo React Native`
+**Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `AJAX` `FCM` `Expo React Native`
 
 
 [![🌐 Live Platform](https://img.shields.io/badge/Live_Platform-0891b2?style=for-the-badge)](https://eduvate.com.ng)

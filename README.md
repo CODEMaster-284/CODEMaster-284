@@ -229,7 +229,7 @@ Dynamic property marketplace with an agent CMS and WhatsApp lead generation that
 
 **Stack:** `Bootstrap` `jQuery` `PHP` `MySQL`
 
-[![🌐 Live Site](https://img.shields.io/badge/Live_Site-0891b2?style=for-the-badge)](https://www.landladyng.com)
+[![🌐 Live Site](https://img.shields.io/badge/Live_Site-0891b2?style=for-the-badge)](https://www.yourlandladyng.com)
 
 </td>
 <td width="50%" valign="top">

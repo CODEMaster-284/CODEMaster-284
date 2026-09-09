@@ -172,8 +172,8 @@ Agent-facing property marketplace built around structured listings and qualified
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTER-284&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=percentile&amp;bg_color=00000000&amp;title_color=dcae38&amp;text_color=8b949e&amp;icon_color=55d69e" height="165" alt="CODEMaster GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTER-284&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=dcae38&amp;text_color=8b949e&amp;langs_count=8" height="165" alt="Most-used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CODEMASTER-284&amp;theme=github_dark" height="165" alt="CODEMaster GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CODEMASTER-284&amp;theme=github_dark" height="165" alt="CODEMaster repositories by language" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake-dark.svg" />

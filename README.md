@@ -4,249 +4,209 @@
 
 <br />
 
+### I engineer dependable digital products for education, business, and African scale.
 
+<p>
+  Full-Stack Product Engineer &nbsp;•&nbsp; Founder &nbsp;•&nbsp; Educator<br />
+  Based in Lagos, Nigeria
+</p>
 
-
-
-
-<sub><code>BUILDING AT THE INTERSECTION OF SOFTWARE × EDUCATION × AFRICAN SCALE</code></sub>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E3B83F?style=for-the-badge&logo=googlechrome&logoColor=090D15)](https://awofesobipeaceportfolio.netlify.app/)
+[![EDUVATE CBT](https://img.shields.io/badge/EDUVATE_CBT-111827?style=for-the-badge&logo=googleplay&logoColor=E3B83F)](https://eduvate.com.ng)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=E3B83F)](https://linkedin.com/in/peace-kolade-58a27a314)
+[![Email](https://img.shields.io/badge/EMAIL_ME-111827?style=for-the-badge&logo=gmail&logoColor=E3B83F)](mailto:awofesobipeace@gmail.com)
 
 </div>
 
-<br />
+---
 
-01 // THE SIGNAL
+## About me
 
-I build systems that turn difficult real-world workflows into software people can actually trust.
+I’m **Awofesobi Peace Kolade** — also known as **CODEMaster** — a first-class Electrical & Electronic Engineering graduate, full-stack product engineer, teacher, and founder.
 
-I’m Awofesobi Peace Kolade—a first-class Electrical & Electronic Engineering graduate, full-stack product engineer, teacher, and founder. I work across architecture, backend logic, databases, interface design, mobile, deployment, and the unglamorous final 10% that makes software usable in production.
+I turn difficult real-world workflows into software people can trust. My work spans system architecture, backend logic, databases, interface design, mobile applications, deployment, and the final details that make a product genuinely usable in production.
 
-My flagship build is EDUVATE CBT, an integrated AI-powered assessment and learning ecosystem created for the realities of African schools and students. The larger mission is simple: make high-quality education infrastructure accessible, dependable, and intelligent.
+```text
+DESIGN THE SYSTEM  →  BUILD THE CORE  →  SHIP THE EXPERIENCE  →  MEASURE THE IMPACT
+```
 
 <img src="./assets/mission.svg" width="100%" alt="Code to solve real problems to impact" />
 
-02 // CURRENT TRANSMISSION
+## What I’m focused on
 
-identity:
-  name: Awofesobi Peace Kolade
-  callsign: CODEMaster
-  location: Lagos, Nigeria
+```yaml
+building: EDUVATE CBT — AI-powered assessment and learning infrastructure
+teaching: Grade 6–8 programming and software development
+mentoring: Developers through CODEMaster Academy
+exploring: Trustworthy AI, mobile learning, and resilient SaaS architecture
 
-now:
-  building: EDUVATE CBT — AI-powered assessment and learning infrastructure
-  teaching: Grade 6–8 programming and software development
-  mentoring: Developers through CODEMaster Academy
-  exploring: Trustworthy AI, mobile learning, resilient SaaS architecture
+principle: "Ship deliberately. Measure honestly. Refine relentlessly."
+```
 
-operating_principle: "Ship deliberately. Measure honestly. Refine relentlessly."
+## Flagship product — EDUVATE CBT
 
-03 // FLAGSHIP SYSTEM
+> **An integrated education operating system — not another quiz app.**
 
-<table>
-<tr>
-<td width="64%" valign="top">
+EDUVATE CBT brings institutional computer-based testing, an LMS, AI-supported practice, analytics, mobile learning, assignments, live classes, anti-malpractice tooling, bulk onboarding, and intelligent explanations into one coordinated workflow.
 
-EDUVATE CBT
+I built the product end to end: database architecture, exam engine, dashboards, APIs, notifications, deployment, and its React Native companion app.
 
-Not another quiz app. A connected education operating system.
+| Product signal | Details |
+|---|---|
+| **Status** | In production |
+| **Role** | Founder / Lead Engineer |
+| **Core stack** | PHP · Laravel · MySQL · JavaScript · React Native · Expo · FCM · AI workflows |
+| **Surfaces** | Institutional tools · Web practice hub · Mobile learning app |
 
-EDUVATE brings institutional CBT, an LMS, AI-supported practice, analytics, mobile learning, assignments, live classes, anti-malpractice tooling, bulk onboarding, and intelligent explanations into one coordinated workflow.
+<p align="center">
+  <a href="https://eduvate.com.ng"><img src="https://img.shields.io/badge/VISIT_PLATFORM-E3B83F?style=for-the-badge&logo=rocket&logoColor=090D15" alt="Visit EDUVATE CBT" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.eduvate.practicehub"><img src="https://img.shields.io/badge/ANDROID_APP-111827?style=for-the-badge&logo=googleplay&logoColor=E3B83F" alt="Download EDUVATE CBT on Android" /></a>
+  <a href="https://www.youtube.com/@EduvateCBT"><img src="https://img.shields.io/badge/PRODUCT_STORIES-111827?style=for-the-badge&logo=youtube&logoColor=E3B83F" alt="Watch EDUVATE CBT product stories" /></a>
+</p>
 
-Built end-to-end—from database architecture and exam engine to dashboards, APIs, notifications, deployment, and the React Native companion app.
-
-PHP Laravel MySQL JavaScript React Native Expo FCM AI workflows
-
-
-
-
-
-</td>
-<td width="36%" valign="top">
-
-System map
-
-INSTITUTIONS
-     │
-     ├── CBT ENGINE
-     ├── LMS
-     ├── ANALYTICS
-     └── OPERATIONS
-            │
-       EDUVATE CORE
-            │
-     ┌──────┴──────┐
-  WEB HUB       MOBILE APP
-     │              │
-  PRACTICE       LEARN ANYWHERE
-
-Status: IN PRODUCTION
-Role: FOUNDER / LEAD ENGINEER
-
-</td>
-</tr>
-</table>
-
-04 // SELECTED DEPLOYMENTS
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Woods Heritage
+### 🌿 Woods Heritage
 
-AgriTech investment platform with cinematic motion, trust-led product design, and a premium green/gold visual system.
+AgriTech investment platform with cinematic motion, trust-led product design, and a premium green-and-gold visual system.
 
-GSAP JavaScript PHP · Launch ↗
+`GSAP` `JavaScript` `PHP`
+
+[View live project →](https://www.woodsheritage.com.ng/)
 
 </td>
 <td width="50%" valign="top">
 
-G&P Kitchen
+### 🍽️ G&P Kitchen
 
-UK food ordering and catering platform with a mobile-first purchasing and event-booking experience.
+UK food-ordering and catering platform with a mobile-first purchasing and event-booking experience.
 
-PHP MySQL JavaScript · Launch ↗
+`PHP` `MySQL` `JavaScript`
+
+[View live project →](https://gnpkitchen.co.uk/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-True Match Online
+### 🤝 True Match Online
 
 Privacy-first matrimonial technology with guardian participation and Sharia-compliant matching flows.
 
-PHP MySQL JavaScript · Launch ↗
+`PHP` `MySQL` `JavaScript`
+
+[View live project →](https://www.truematchonline.com)
 
 </td>
 <td width="50%" valign="top">
 
-Career Elevate
+### 💼 Career Elevate
 
 Recruitment infrastructure connecting candidates and employers through filtering, applications, and secure administration.
 
-Bootstrap PHP MySQL · Launch ↗
+`Bootstrap` `PHP` `MySQL`
+
+[View live project →](https://careerelevate.org)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-The Southwest Realtor
+### 🏙️ The Southwest Realtor
 
 Property discovery and conversion system with a custom CMS and context-aware WhatsApp lead handoff.
 
-jQuery PHP MySQL · Launch ↗
+`jQuery` `PHP` `MySQL`
+
+[View live project →](https://www.thesouthwestrealtor.com)
 
 </td>
 <td width="50%" valign="top">
 
-Landlady NG
+### 🏠 Landlady NG
 
 Agent-facing property marketplace built around structured listings and qualified WhatsApp conversations.
 
-Bootstrap PHP MySQL · Launch ↗
+`Bootstrap` `PHP` `MySQL`
+
+[View live project →](https://www.yourlandladyng.com)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/CODEMASTER-284?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=E3B83F" alt="Explore all CODEMaster repositories" /></a>
+</p>
 
+## Engineering toolkit
 
+| Area | Tools and practices |
+|---|---|
+| **Frontend** | JavaScript · React · HTML · CSS · Bootstrap · Tailwind · GSAP |
+| **Backend** | PHP · Laravel · REST APIs · Authentication · Background jobs |
+| **Data** | MySQL · Relational modelling · Migrations · Reporting queries |
+| **Mobile** | React Native · Expo · Push notifications · Offline-aware flows |
+| **Infrastructure** | Linux · Nginx · Cloudflare · Hostinger VPS · Netlify · Vercel |
+| **Engineering practice** | Git · GitHub · Security hardening · Testing · Technical writing |
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=E3B83F" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=E3B83F" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=E3B83F" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=E3B83F" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=E3B83F" alt="React Native" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=E3B83F" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=E3B83F" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=E3B83F" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=E3B83F" alt="Git" />
+</p>
 
-05 // ENGINEERING MATRIX
-
-Domain
-
-Production toolkit
-
-Interfaces
-
-JavaScript · React · HTML · CSS · Bootstrap · Tailwind · GSAP
-
-Systems
-
-PHP · Laravel · REST APIs · authentication · background jobs
-
-Data
-
-MySQL · relational modelling · migrations · reporting queries
-
-Mobile
-
-React Native · Expo · push notifications · offline-aware flows
-
-Infrastructure
-
-Linux · Nginx · Cloudflare · Hostinger VPS · Netlify · Vercel
-
-Practice
-
-Git · GitHub · security hardening · testing · technical writing
-
-<details>
-<summary><strong>Open the full technical inventory</strong></summary>
-<br />
-
-
-
-
-
-
-
-
-
-
-
-</details>
-
-06 // ACTIVITY FEED
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTER-284&show_icons=true&hide_border=true&rank_icon=percentile&bg_color=00000000&title_color=dcae38&text_color=8b949e&icon_color=55d69e" height="165" alt="CODEMaster GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTER-284&layout=compact&hide_border=true&bg_color=00000000&title_color=dcae38&text_color=8b949e&langs_count=8" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=CODEMASTER-284&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=percentile&amp;bg_color=00000000&amp;title_color=dcae38&amp;text_color=8b949e&amp;icon_color=55d69e" height="165" alt="CODEMaster GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEMASTER-284&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=dcae38&amp;text_color=8b949e&amp;langs_count=8" height="165" alt="Most-used languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution trail" />
+  <img src="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution trail" />
 </picture>
 
 <sub>THE GRAPH ISN’T THE WORK. IT’S THE TRACE THE WORK LEAVES BEHIND.</sub>
 
 </div>
 
-07 // KNOWLEDGE LOOP
+## Beyond the build
 
-I don’t only ship software—I teach the thinking behind it.
+I don’t only ship software — I teach the thinking behind it.
 
-CODEMaster Academy: structured mentorship for developers building practical confidence.
+- **CODEMaster Academy:** structured mentorship for developers building practical confidence.
+- **Coding education:** programming and software development for Grade 6–8 learners.
+- **Technical writing:** lessons from PHP security, product engineering, and client work.
+- **Developer content:** concise learning resources on [TikTok](https://www.tiktok.com/@codemaster284), [Medium](https://medium.com/@awofesobipeace), and [YouTube](https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w).
 
-Coding education: programming and software development for Grade 6–8 learners.
-
-Technical writing: lessons from PHP security, product engineering, and client work.
-
-Developer content: concise learning resources on TikTok, Medium, and YouTube.
-
-08 // OPEN CHANNEL
+---
 
 <div align="center">
 
-Have a difficult product problem worth solving?
+## Let’s build something meaningful
 
-I’m open to high-impact engineering roles, product collaborations, EdTech partnerships, and select full-stack builds.
+I’m open to **high-impact engineering roles**, **product collaborations**, **EdTech partnerships**, and **select full-stack builds**.
 
-
-
-
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-E3B83F?style=for-the-badge&logo=gmail&logoColor=090D15)](mailto:awofesobipeace@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=E3B83F)](https://linkedin.com/in/peace-kolade-58a27a314)
+[![Medium](https://img.shields.io/badge/READ_MY_WRITING-111827?style=for-the-badge&logo=medium&logoColor=E3B83F)](https://medium.com/@awofesobipeace)
 
 <br />
-
-DESIGN THE SYSTEM  →  BUILD THE CORE  →  SHIP THE EXPERIENCE  →  MEASURE THE IMPACT
 
 <sub>AWOFESOBI PEACE KOLADE · CODEMASTER · LAGOS, NIGERIA</sub>
 

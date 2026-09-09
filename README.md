@@ -30,7 +30,7 @@ I turn difficult real-world workflows into software people can trust. My work sp
 DESIGN THE SYSTEM  →  BUILD THE CORE  →  SHIP THE EXPERIENCE  →  MEASURE THE IMPACT
 ```
 
-<img src="./assets/mission.svg" width="100%" alt="Code to solve real problems to impact" />
+<img src="https://raw.githubusercontent.com/CODEMASTER-284/CODEMASTER-284/refs/heads/main/assets/mission.svg?v=2" width="100%" alt="Code to solve real problems to impact" />
 
 ## What I’m focused on
 

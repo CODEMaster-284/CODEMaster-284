@@ -81,6 +81,17 @@ AgriTech investment platform with cinematic motion, trust-led product design, an
 </td>
 <td width="50%" valign="top">
 
+### 🪑 Wanies Furniture
+
+Premium furniture, office and solar catalogue with a quotation-led enquiry flow and a custom admin dashboard, built on a hand-rolled PHP MVC backend.
+
+`PHP` `MySQL` `JavaScript` `GSAP`
+
+[View live project →](https://waniesfurniture.com)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🍽️ G&P Kitchen
 
 UK food-ordering and catering platform with a mobile-first purchasing and event-booking experience.

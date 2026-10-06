@@ -90,7 +90,9 @@ Premium furniture, office and solar catalogue with a quotation-led enquiry flow 
 [View live project →](https://waniesfurniture.com)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
 ### 🍽️ G&P Kitchen
 
